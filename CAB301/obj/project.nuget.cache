@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qly9lUEjehr2K6lwsVgSv1LSZgHNs+srii9houzbQRoNVJbHx2TC/gJ0OeaTn3M2Bvv7rk5ScC0XmcGTOrFdLA==",
+  "success": true,
+  "projectFilePath": "/Users/duc/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/CAB301/CAB301 - Phase 3/CAB301/CAB301.csproj",
+  "expectedPackageFiles": [
+    "/Users/duc/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/duc/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/duc/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

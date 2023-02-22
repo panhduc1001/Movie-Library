@@ -1,0 +1,28 @@
+C:/Users/Minh/source/repos/CAB301/CAB301/bin/Debug/netcoreapp3.1/CAB301.exe
+C:/Users/Minh/source/repos/CAB301/CAB301/bin/Debug/netcoreapp3.1/CAB301.deps.json
+C:/Users/Minh/source/repos/CAB301/CAB301/bin/Debug/netcoreapp3.1/CAB301.runtimeconfig.json
+C:/Users/Minh/source/repos/CAB301/CAB301/bin/Debug/netcoreapp3.1/CAB301.runtimeconfig.dev.json
+C:/Users/Minh/source/repos/CAB301/CAB301/bin/Debug/netcoreapp3.1/CAB301.dll
+C:/Users/Minh/source/repos/CAB301/CAB301/bin/Debug/netcoreapp3.1/CAB301.pdb
+C:/Users/Minh/source/repos/CAB301/CAB301/obj/Debug/netcoreapp3.1/CAB301.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Minh/source/repos/CAB301/CAB301/obj/Debug/netcoreapp3.1/CAB301.AssemblyInfoInputs.cache
+C:/Users/Minh/source/repos/CAB301/CAB301/obj/Debug/netcoreapp3.1/CAB301.AssemblyInfo.cs
+C:/Users/Minh/source/repos/CAB301/CAB301/obj/Debug/netcoreapp3.1/CAB301.csproj.CoreCompileInputs.cache
+C:/Users/Minh/source/repos/CAB301/CAB301/obj/Debug/netcoreapp3.1/CAB301.dll
+C:/Users/Minh/source/repos/CAB301/CAB301/obj/Debug/netcoreapp3.1/CAB301.pdb
+C:/Users/Minh/source/repos/CAB301/CAB301/obj/Debug/netcoreapp3.1/CAB301.genruntimeconfig.cache
+C:/Users/Minh/source/repos/CAB301/CAB301/obj/Debug/netcoreapp3.1/CAB301.csproj.AssemblyReference.cache
+/Users/duc/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/CAB301/CAB301 - Phase 3/CAB301/bin/Debug/netcoreapp3.1/CAB301.deps.json
+/Users/duc/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/CAB301/CAB301 - Phase 3/CAB301/bin/Debug/netcoreapp3.1/CAB301.runtimeconfig.json
+/Users/duc/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/CAB301/CAB301 - Phase 3/CAB301/bin/Debug/netcoreapp3.1/CAB301.runtimeconfig.dev.json
+/Users/duc/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/CAB301/CAB301 - Phase 3/CAB301/bin/Debug/netcoreapp3.1/CAB301.dll
+/Users/duc/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/CAB301/CAB301 - Phase 3/CAB301/bin/Debug/netcoreapp3.1/CAB301.pdb
+/Users/duc/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/CAB301/CAB301 - Phase 3/CAB301/obj/Debug/netcoreapp3.1/CAB301.csproj.AssemblyReference.cache
+/Users/duc/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/CAB301/CAB301 - Phase 3/CAB301/obj/Debug/netcoreapp3.1/CAB301.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duc/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/CAB301/CAB301 - Phase 3/CAB301/obj/Debug/netcoreapp3.1/CAB301.AssemblyInfoInputs.cache
+/Users/duc/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/CAB301/CAB301 - Phase 3/CAB301/obj/Debug/netcoreapp3.1/CAB301.AssemblyInfo.cs
+/Users/duc/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/CAB301/CAB301 - Phase 3/CAB301/obj/Debug/netcoreapp3.1/CAB301.csproj.CoreCompileInputs.cache
+/Users/duc/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/CAB301/CAB301 - Phase 3/CAB301/obj/Debug/netcoreapp3.1/CAB301.dll
+/Users/duc/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/CAB301/CAB301 - Phase 3/CAB301/obj/Debug/netcoreapp3.1/CAB301.pdb
+/Users/duc/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/CAB301/CAB301 - Phase 3/CAB301/obj/Debug/netcoreapp3.1/CAB301.genruntimeconfig.cache
+/Users/duc/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/CAB301/CAB301 - Phase 3/CAB301/bin/Debug/netcoreapp3.1/CAB301
